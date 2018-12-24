@@ -1,0 +1,11 @@
+{
+  "name": "tcp_server",
+  "version": "1.0.0",
+  "description": "this project to receive data from c# client application then using socket.io to send this information to web page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ROIC",
+  "license": "ISC"
+}
